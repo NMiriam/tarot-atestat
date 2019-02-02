@@ -1,0 +1,38 @@
+html,body{ 
+	margin:0;
+}
+head title{
+	font-size:20px;
+
+}
+
+header
+	{
+background-color:black;
+padding: 35px;
+text-align:center;
+}
+h1
+	{
+	font-size:90px;
+	color:white;
+}
+header img{
+	border-radius:45%;
+	width: 250px;
+}	
+
+.content{
+	max-width: 400px
+	margin: 0 auto;
+	background-color: yellow;
+	padding: 0 20px;
+}
+img.big-image{
+max-width: 100%;
+}
+
+p.caption{
+	
+}
+
