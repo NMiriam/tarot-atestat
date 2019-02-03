@@ -14,8 +14,8 @@ text-align:center;
 }
 h1
 	{
-	font-size:90px;
-	color:white;
+	font-size:70px;
+	color:#c2c2d6;
 }
 header img{
 	border-radius:45%;
@@ -23,9 +23,9 @@ header img{
 }	
 
 .content{
-	max-width: 400px
+	max-width: 400px;
 	margin: 0 auto;
-	background-color: yellow;
+	background-color:#854766 ;
 	padding: 0 20px;
 }
 img.big-image{
@@ -33,6 +33,31 @@ max-width: 100%;
 }
 
 p.caption{
-	
+	font-size:20px;
+	color:lightgrey;
+	font-style: italic;
 }
 
+ul{
+	list-style:none;
+	 padding:0;
+	 margin:0;
+}
+a{
+	color:#660033;
+	text-decoration: underline;
+
+}
+
+footer{
+	margin-top: 20px;
+	padding:40 px 20px;
+	background-color:#854766;
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display:inline-block;
+	margin: 0 5px;
+}
