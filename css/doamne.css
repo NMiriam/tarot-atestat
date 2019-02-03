@@ -16,10 +16,13 @@ h1
 	{
 	font-size:70px;
 	color:#c2c2d6;
+	text-shadow: 0 4px 20px black;
+	margin:0;
 }
 header img{
 	border-radius:45%;
 	width: 250px;
+	text-shadow: 0 4px 20px black;
 }	
 
 .content{
